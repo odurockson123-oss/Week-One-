@@ -104,7 +104,7 @@ int main() {
     int choice;
 
     do {
-        cout << "\n===== Student Management System =====\n";
+        cout << "\n Student Management System \n";
         cout << "1. Register Student\n";
         cout << "2. View All Students\n";
         cout << "3. Search Student by Index\n";
